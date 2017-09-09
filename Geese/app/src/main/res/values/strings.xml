@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Geese</string>
+    <string name="app_name">鸿雁</string>
+    <string name="title_news">订阅</string>
+    <string name="title_discovery">发现</string>
 </resources>
